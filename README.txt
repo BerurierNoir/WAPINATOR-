@@ -109,7 +109,7 @@ MIT License - voir [LICENSE](LICENSE)
 
 ## 🙏 Crédits
 
-Développé par **[VOTRE PSEUDO]**
+Développé par Wap
 
 **Remerciements :**
 - Claude AI (assistance développement)
