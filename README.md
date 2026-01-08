@@ -21,6 +21,36 @@
 
 ---
 
+## 💭 Genèse du Projet
+
+**Wapinator** est né d'un besoin simple : **gagner du temps lors des dépannages PC d'amis et de famille**. 
+
+Plutôt que de répéter les mêmes diagnostics, lancer 15 outils différents, et expliquer 10 fois comment nettoyer Windows... j'ai créé Wapinator pour centraliser tout ça en un seul endroit.
+
+**Aujourd'hui, Wapinator est utile pour tous :**
+
+### 👶 **Débutants (Noobs)**
+- Interface guidée avec explications claires
+- Tutoriels pas-à-pas pour chaque outil
+- Diagnostic automatique par symptômes
+- Pas besoin de connaissances techniques
+
+### 🔧 **Utilisateurs Intermédiaires**
+- Gain de temps énorme sur les tâches courantes
+- Optimisations gaming en 1 clic
+- Monitoring temps réel pratique
+- Maintenance préventive facile
+
+### 💻 **Professionnels / Techs**
+- Diagnostic rapide avant intervention
+- Outils avancés (BSOD, drivers, températures)
+- Export rapports pour clients
+- Automatisation tâches répétitives
+
+**En résumé : que vous soyez un gamer qui veut optimiser son PC, un parent qui veut nettoyer l'ordi familial, ou un tech qui dépanne des PC toute la journée... Wapinator vous fait gagner du temps !** ⏱️
+
+---
+
 ## ✨ Fonctionnalités
 
 ### 📊 Monitoring Temps Réel
