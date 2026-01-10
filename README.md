@@ -80,7 +80,7 @@ Plutôt que de répéter les mêmes diagnostics, lancer 15 outils différents, e
 
 ---
 
-## 🔧 10 Modules Avancés
+## 🔧 12 Modules Avancés
 
 | Module | Description |
 |--------|-------------|
@@ -94,6 +94,28 @@ Plutôt que de répéter les mêmes diagnostics, lancer 15 outils différents, e
 | 🔄 **Réparateur Windows Update** | Fix erreurs WU + reset services |
 | 🧪 **Testeur RAM** | Diagnostic mémoire + Memory Diagnostic |
 | 🗑️ **Nettoyeur Bloatware** | Détection + suppression auto |
+| 🔒 **Privacy & Telemetry** | Bloque tracking Windows + profils gaming/normal/ultra |
+| ⚙️ **BIOS Manager** | Infos + MAJ + Tutoriels BIOS par fabricant |
+
+---
+
+### 🆕 Nouveaux Modules v1.3
+
+#### 🔒 Privacy & Telemetry Manager
+- **3 profils prédéfinis** : Gamer / Normal / Ultra Safe
+- **Backup/Restore** complet (services + registre + hosts)
+- **Mode Safe** : 30 domaines télémétrie bloqués (Xbox/Game Pass OK)
+- **Mode Agressif** : 45 domaines (peut affecter Windows Update)
+- Désactive : Cortana, tracking pub, localisation, Wi-Fi Sense
+- 100% réversible en 1 clic
+
+#### ⚙️ BIOS/UEFI Manager
+- **Auto-détection** : Fabricant, version, date, mode UEFI/Legacy
+- **8 fabricants** : ASUS, MSI, Gigabyte, ASRock, Dell, HP, Lenovo
+- **Tutoriels détaillés** : EZ Flash, M-Flash, Q-Flash, etc.
+- **Explications 10+ paramètres** : XMP, Secure Boot, TPM, Virtualization
+- **Checklists sécurité** : Avant chaque mise à jour
+- Liens directs pages officielles fabricants
 
 ---
 
@@ -197,12 +219,10 @@ MIT License - voir [LICENSE](LICENSE)
 
 ## 🙏 Crédits
 
-Développé par **Wap** ([BerurierNoir](https://github.com/BerurierNoir))
+Développé par **Wap** (Bien aider pas Claide IA)   ([BerurierNoir](https://github.com/BerurierNoir))
 
 **Remerciements :**
 - Claude AI (assistance développement)
-- Communauté Discord
-- Tous les contributeurs
 
 ---
 

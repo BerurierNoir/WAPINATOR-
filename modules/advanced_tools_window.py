@@ -92,6 +92,18 @@ class AdvancedToolsWindow(QDialog):
                 "desc": "Détecte + supprime programmes inutiles",
                 "color": "#795548",
                 "module": "bloatware_cleaner"
+            },
+            {
+                "name": "🔒 Privacy & Telemetry",
+                "desc": "Désactive tracking Windows + télémétrie",
+                "color": "#E91E63",
+                "module": "privacy_telemetry"
+            },
+            {
+                "name": "⚙️ BIOS Manager",
+                "desc": "Infos + MAJ + Tutoriels + Explications BIOS",
+                "color": "#FF5722",
+                "module": "bios_manager"
             }
         ]
         
@@ -226,6 +238,12 @@ class AdvancedToolsWindow(QDialog):
                 elif module_name == 'ram_tester':
                     from modules.ram_tester import RamtesterWindow
                     window = RamtesterWindow(self.parent_window)
+                elif module_name == 'privacy_telemetry':
+                    from modules.privacy_telemetry import PrivacytelemetryWindow
+                    window = PrivacytelemetryWindow(self.parent_window)
+                elif module_name == 'bios_manager':
+                    from modules.bios_manager import BiosmanagerWindow
+                    window = BiosmanagerWindow(self.parent_window)
                 else:
                     raise ImportError(f"Module {module_name} non reconnu")
                 
