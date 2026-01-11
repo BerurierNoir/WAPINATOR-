@@ -104,6 +104,18 @@ class AdvancedToolsWindow(QDialog):
                 "desc": "Infos + MAJ + Tutoriels + Explications BIOS",
                 "color": "#FF5722",
                 "module": "bios_manager"
+            },
+            {
+                "name": "🤖 Générateur de prompt AI pour Diagnostic",
+                "desc": "Génère prompt optimisé IA (Claude/ChatGPT/Gemini)",
+                "color": "#00BCD4",
+                "module": "ai_diagnostic"
+            },
+            {
+                "name": "🧹 Nettoyage Disque Avancé",
+                "desc": "Navigateurs, Gaming, Windows.old, WinSxS, Fichiers volumineux",
+                "color": "#8BC34A",
+                "module": "disk_cleanup_advanced"
             }
         ]
         
@@ -244,6 +256,12 @@ class AdvancedToolsWindow(QDialog):
                 elif module_name == 'bios_manager':
                     from modules.bios_manager import BiosmanagerWindow
                     window = BiosmanagerWindow(self.parent_window)
+                elif module_name == 'ai_diagnostic':
+                    from modules.ai_diagnostic import AIDiagnosticWindow
+                    window = AIDiagnosticWindow(self.parent_window)
+                elif module_name == 'disk_cleanup_advanced':
+                    from modules.disk_cleanup_advanced import DiskCleanupAdvancedWindow
+                    window = DiskCleanupAdvancedWindow(self.parent_window)
                 else:
                     raise ImportError(f"Module {module_name} non reconnu")
                 

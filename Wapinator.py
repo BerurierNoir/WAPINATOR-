@@ -4387,7 +4387,7 @@ class PCWidget(QMainWindow):
         container_layout.addWidget(self.info_text)
         
         # Version en bas
-        version_label = QLabel("version: 1.2")
+        version_label = QLabel("version: 1.4")
         version_label.setFont(QFont("Segoe UI", 7))
         version_label.setStyleSheet("color: #666666; background-color: transparent;")
         version_label.setAlignment(Qt.AlignmentFlag.AlignLeft)

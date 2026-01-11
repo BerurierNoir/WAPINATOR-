@@ -86,7 +86,7 @@ Plutôt que de répéter les mêmes diagnostics, lancer 15 outils différents, e
 |--------|-------------|
 | 📘 **Analyseur BSOD** | Décode .dmp + solutions par type de crash |
 | 🔋 **Santé Batterie** | Rapport PowerCfg complet (usure, cycles) |
-| 🌐 **Test Réseau** | Ping, DNS, packet loss, diagnostics |
+| 🌐 **Test Réseau** | Ping, DNS, packet loss, diagnostics (MAJ) |
 | 💾 **Gestionnaire Drivers** | MAJ + Backup + Rollback drivers |
 | 🚀 **Nettoyeur Démarrage** | Optimisation boot + score impact |
 | 💊 **Santé Windows** | Check intégrité + score /100 |
@@ -96,6 +96,8 @@ Plutôt que de répéter les mêmes diagnostics, lancer 15 outils différents, e
 | 🗑️ **Nettoyeur Bloatware** | Détection + suppression auto |
 | 🔒 **Privacy & Telemetry** | Bloque tracking Windows + profils gaming/normal/ultra |
 | ⚙️ **BIOS Manager** | Infos + MAJ + Tutoriels BIOS par fabricant |
+| 🤖 Générateur Prompt AICrée prompts optimisés pour diagnostic IA(NOUVEAU !) |
+| 🧹 Nettoyage Disque Avancé8 catégories, gain 5-50 Go(NOUVEAU !) |
 
 ---
 
