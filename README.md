@@ -613,23 +613,45 @@ Si applicable, ajouter des captures
 
 ---
 
-## ⭐ Soutenez le Projet
+## 💖 Soutenez le Projet
 
 <div align="center">
 
-**Si Wapinator vous est utile, soutenez le projet !**
-
-| Action | Impact |
-|:---:|---|
-| ⭐ **Star le repo** | Motive énormément le développeur ! |
-| 🐛 **Signalez les bugs** | Aide à améliorer la stabilité |
-| 💬 **Partagez** | Fait connaître le projet |
-| 💡 **Proposez des idées** | Toujours ouvert aux suggestions |
-| 🤝 **Contribuez** | Code, traductions, documentation |
+**Si Wapinator vous fait gagner du temps, offrez-moi un café !** ☕
 
 <br>
 
-**Fun fact :** Chaque ⭐ donne +10% motivation ! 😄
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-☕_Un_café-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/D1D71S6HJC)
+
+<br>
+
+### 💰 Pourquoi donner ?
+
+*Chaque don motive énormément et aide à :*
+- ☕ Financer les heures de développement  
+- 🔧 Développer de nouveaux modules  
+- 🐛 Corriger les bugs rapidement  
+- 📚 Améliorer la documentation
+
+<br>
+
+*Wapinator restera TOUJOURS 100% gratuit et open source.* 🎁
+
+</div>
+
+---
+
+## 🤝 Autres moyens de soutenir
+
+<div align="center">
+
+| Action | Impact |
+|:---:|---|
+| ⭐ **Star le repo** | Motive énormément ! |
+| 🐛 **Signalez les bugs** | Améliore la qualité |
+| 💬 **Partagez** | Fait connaître le projet |
+| 💡 **Proposez des idées** | Enrichit les fonctionnalités |
+| 🤝 **Contribuez** | Code, traductions, docs |
 
 </div>
 
